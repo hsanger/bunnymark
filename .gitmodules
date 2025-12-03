@@ -3,7 +3,7 @@
 	url = https://github.com/libsdl-org/SDL.git
 [submodule "vendored/SDL_gpu"]
 	path = vendored/SDL_gpu
-	url = https://github.com/grimfang4/sdl-gpu.git
+	url = https://github.com/grimfang4/sdl-gpu
 [submodule "vendored/SDL2"]
 	path = vendored/SDL2
 	url = https://github.com/libsdl-org/SDL.git
